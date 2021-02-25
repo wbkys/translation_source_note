@@ -16,3 +16,6 @@ ps:文件中仅对.go文件做处理,并且只翻译 // 注释后面的, 可以�
 
 所以我是用命令行运行的,这样就不会超时了
 php E:\www\transapi.php
+
+效果
+(https://github.com/wbkys/translation_source_note/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D1614251932.png)

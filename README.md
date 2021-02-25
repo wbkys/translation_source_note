@@ -3,6 +3,7 @@
 
 #baidu_transapi.php
 需要在百度翻译接口申请API KEY,填写进去
+申请地址 http://api.fanyi.baidu.com
 
 #transapi.php
 这个文件中的目标文件夹需要做修改,修改为你需要翻译的源代码.
